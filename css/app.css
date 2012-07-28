@@ -39,11 +39,8 @@ div.skill p {
   padding: 20px;
   margin-bottom: 20px;
   margin-top: -20px;
-  background-color: #eeeeee;
-  color: #888888;
-  -webkit-border-radius: 6px;
-     -moz-border-radius: 6px;
-          border-radius: 6px;
+  background-color: #ff9933;
+  color: #eeeeee;
 }
 
 .sorta-hero-unit h1 {
